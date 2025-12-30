@@ -1,0 +1,8 @@
+ File: /home/coder
+ Size: 49         	Blocks: 5	   IO Block: 3072	directory
+Device: 2000aeh/2097326d	 Inode: 168002	   Links: 28
+Access: (0755/drwxr-xr-x)  Uid:  ( 1000/   coder)  Gid: ( 1000/	      coder)
+Access: 1970-01-01 00:00:00.000000000 +0000
+Modify: 2025-12-30 00:25:30.282045636 +0000
+Change: 2025-12-30 00:25:30.282045636 +0000
+Birth: -
